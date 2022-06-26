@@ -16,7 +16,7 @@ colors:
     tertiaryText: rgba(0, 0, 0, 0.55)
   dark:
     theme: "#38b2ac"
-    primaryBackground: rgba(0, 0, 0, 1)
+    primaryBackground: rgba(56, 178, 172)
     secondaryBackground: rgba(28, 28, 30, 1)
     tertiaryBackground: rgba(44, 44, 46, 1)
     primaryText: rgba(255, 255, 255, 0.85)
